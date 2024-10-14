@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+# LLM framework
+transformers==4.45.2
+llmware==0.3.7
+# Vector database
+chromadb==0.5.13
+# Progress bar
+ipywidgets==8.1.5
+# Web scraping
+beautifulsoup4==4.12.3
+lxml==5.3.0
+# Web app
+streamlit==1.39.0
